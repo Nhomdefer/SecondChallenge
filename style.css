@@ -35,7 +35,7 @@ p {
 .img {
     width: 400px;
     height: 210px;
-    background-image: url(../Second-Challenge/omelette-image.png);
+    background-image: url(omelette-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
